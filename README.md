@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @J-Phantom
-- 👀 I’m interested in programming/coding video games!
-- 🌱 I’m currently learning HaxeFlixel, a Haxe game development library/framework that allows you to create 2D games from code!
-- 💞️ I’m looking to collaborate on game development.
-- 📫 How to reach me --> j.phantomcontact@gmail.com (note: I wont always be able to respond right away most of the times)
+: P
